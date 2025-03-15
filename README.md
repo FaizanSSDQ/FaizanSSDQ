@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am Faizan Saleem Siddiqui, a Graduate of Electronics specialized in embedded systems and robotics. I'm currenlty pursuing my Masters as research scholar at Quaid-i-Azam University, Islamabad. 
