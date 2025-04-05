@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hello, Finally We met! 👋
 
 <!--
 **FaizanSSDQ/FaizanSSDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some idelas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I am Faizan Saleem Siddiqui, a Graduate of Electronics specialized in embedded systems and robotics. I'm currenlty pursuing my Masters as research scholar at Quaid-i-Azam University, Islamabad. 
+I am Faizan Saleem Siddiqui, a Graduate of Electronics Currently. I am working as research scholar in the field of Machine Learning & Artificial Intelligence. I have done a fine set of projects related to Natural Language Processing, and Compute Vision. 
+
+I have been providing freelancing services for last 4 years on different platforms.
